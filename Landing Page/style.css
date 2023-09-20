@@ -1,0 +1,61 @@
+
+/* ini untuk logo */
+img{
+    float : left;
+}
+
+/* ini untuk navigasi */
+nav {
+    /* display : flex;
+    justify-content: space-between;
+    font-family: "monsterat"; */
+    margin-bottom: 15px;
+    text-align: right;
+    color: #f30000;
+    font-family: Poppins;
+    font-size: 19.758px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26.344px; /* 133.333% */
+    letter-spacing: 5.488px;
+    text-transform: uppercase;
+}
+
+/* ini untuk banner */
+.banner {
+    background-color: greenyellow;
+    width: 1430px;
+    height: 523px;
+    flex-shrink: 0;
+    border-radius: 15px;
+}
+
+.get {
+    position:relative;
+    right : 5%;
+    top: 90%;
+}
+
+h1 {
+    color: #FFC636;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44.938px; /* 93.621% */
+    letter-spacing: 2.227px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    color: #020202;
+text-align: center;
+font-family: Montserrat;
+font-size: 26.344px;
+font-style: normal;
+font-weight: 600;
+line-height: 44.938px; /* 170.584% */
+letter-spacing: 2.227px;
+}
